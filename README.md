@@ -3,6 +3,12 @@ Overview
 
 This project uses Astro run time to run and manage Airflow instance
 
+### Pipeline execution 
+![](images/pipeline_successful_run.png)
+
+### Entity relationship diagram design
+![](images/ERD.png)
+
 How to setup this project
 ================
 - Clone this project
